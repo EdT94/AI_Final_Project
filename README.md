@@ -29,3 +29,7 @@ When in "RunAway" state, looking for closest health points and ammunition storag
 health points storages and up to MAX_AMMO_STORAGE_CARRIAGE ammunition storages. When a teammate in need of healh points or ammunition
 and he is close enough, he take what he needs and the health storages number of the armor bearer decreases by 1. The armor bearer can use
 one if his health storages, if his health points is lower than MIN_HP.
+
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/81565589/179821440-f98e7155-c66c-43ba-af1e-fdac423944ce.gif)
