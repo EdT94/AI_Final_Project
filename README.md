@@ -1,7 +1,7 @@
 # AI_Final_Project
 
-
 The teams start the game in two different rooms, each team in a different room. Each team has 2 types of NPC's: Warriors and Armor bearers. Every NPC calculates his path to target every A_STAR_ITERATION steps(see definitions in "main.h" and "NPC.h").
+
 ------------------------------------------------------------------------------------------------------------------------------
 Warrior:
 Each warrior has 3 states: "Attack", "RunAway", and "Idle".
