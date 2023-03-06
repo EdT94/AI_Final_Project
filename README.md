@@ -14,6 +14,7 @@ If the warrior has lower health points than MIN_HP or lower ammunition than MIN_
 
 Idle: 
 From this state, we move to 2 other states, depending on the health points and ammunition values.
+
 ------------------------------------------------------------------------------------------------------------------------------
 Armor-bearer:
 Always moving from "Idle" to "RunAway" state. When in the "RunAway" state, look for the closest health points and ammunition storages and pick them. can carry up to MAX_HP_STORAGE_CARRIAGE health points storages and up to MAX_AMMO_STORAGE_CARRIAGE ammunition storages. When a teammate is in need of health points or ammunition and he is close enough, he takes what he needs and the health storage number of the armor bearer decreases by 1. The armor-bearer can use one of his health storages if his health points are lower than MIN_HP.
